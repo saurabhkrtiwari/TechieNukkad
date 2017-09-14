@@ -1,0 +1,23 @@
+{
+  "name": "techienukkad",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhkrtiwari/TechieNukkad.git"
+  },
+  "author": "Saurabh Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhkrtiwari/TechieNukkad/issues"
+  },
+  "homepage": "https://github.com/saurabhkrtiwari/TechieNukkad#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
